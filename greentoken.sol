@@ -8,7 +8,8 @@ Our Team is developing a completely new mining concept - Green mining.
 Using the Force of Nature given to us, we can mine (extract) everything: 
 water, green spaces, oxygen - everything that Mother Nature produces for us.
 At the same time, we do not destroy, but restore Nature - and this is our Power!
-github https://github.com/alexburndev/unifores/blob/main/chtm.sol
+
+github https://github.com/alexburndev/ecomining/blob/main/greentoken.sol
 */
 
 library Address {
