@@ -22,7 +22,7 @@ pragma solidity ^0.6.0;
 *water, green spaces, oxygen - everything that Mother Nature produces for us.
 *At the same time, we do not destroy, but restore Nature - and this is our Power!
 
-*github https://github.com/alexburndev/ecomining/blob/main/greentoken.sol
+*https://github.com/alexburndev/ecomining/blob/main/gtdshare.sol
 *
 *SPDX-License-Identifier: <SPDX-License>
 *
